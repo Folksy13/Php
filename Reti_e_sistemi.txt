@@ -1,0 +1,11 @@
+1.Cos'è una LAN?
+Una LAN (Local Area Network) è una rete locale presente in ambienti limitati come case, scuole, laboratori e uffici. Permette ai dispositivi di comunicare velocemente tra loro, condividere file, stampanti e avere accesso a Internet.
+2. A cosa serve lo switch?
+Lo switch serve a collegare tra loro molti dispositivi della stessa rete locale (ad esempio i computer di un laboratorio). Il suo compito è ricevere i dati e inviarli specificamente al dispositivo corretto, migliorando così la velocità e l'ordine della rete.
+3. Differenza router/modem?
+Modem: Collega la rete domestica o scolastica al fornitore di servizi Internet (ISP). Converte il segnale che arriva dalla linea telefonica o dalla fibra ottica in un segnale utilizzabile dai computer.
+Router: Gestisce il traffico dati all'interno della rete. Decide dove inviare ogni informazione, sia verso Internet sia verso i dispositivi interni alla rete locale.
+4. Cos'è il Wi-Fi?
+Il Wi-Fi è una connessione wireless (senza fili) generata da un Access Point. Permette a dispositivi come notebook, smartphone e tablet di collegarsi alla rete senza l'utilizzo di cavi fisici.
+5. Perché si usa Cat6?
+Il cavo di categoria Cat6 si utilizza perché è la tipologia consigliata per l'uso comune (rispetto alla Cat5e che è solo "comune"). Offre prestazioni migliori per garantire connessioni stabili e veloci tra i componenti della rete come computer e router.
